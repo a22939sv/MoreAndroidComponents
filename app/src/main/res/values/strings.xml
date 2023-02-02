@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MoreAndroidComponents</string>
+
+    <string name="titulo">BIENVENIDO AL EJEMPLO</string>
+    <string name="txt_btn_ingresar">Ingresar Nombre</string>
+    <string name="text_msj_bienvenido">Hola, Bienvenido </string>
 </resources>
